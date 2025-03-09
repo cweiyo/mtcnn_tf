@@ -11,6 +11,7 @@ from detection.MtcnnDetector import MtcnnDetector
 from detection.detector import Detector
 from detection.fcn_detector import FcnDetector
 import cv2
+# dedicated=
 import argparse
 
 def test(stage, testFolder):
